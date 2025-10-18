@@ -169,3 +169,4 @@ AIC(myexponential2, myweibull2, mylognormal2)
 
 #yes, lognormal still better 
 
+
